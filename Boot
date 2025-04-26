@@ -1,0 +1,1 @@
+sudo cp /boot/grub/x86_64-efi/grub.efi /boot/efi/EFI/systemd/systemd-bootx64.efi
